@@ -12,4 +12,17 @@
  of duplicate questions having different threads.
  This project aims to detect duplicate question pairs on Quora by utilizing the
  power of machine learning techniques. The main aim of the project is to develop
- a model capable of accurately identifying and classifying duplicate question pairs,
+ a model capable of accurately identifying and classifying duplicate question pairs.
+
+
+ ## Model Used
+ - RandomForest
+ - Xgboost
+ - Naive Bayes
+ - Logistic regression
+
+## Result
+
+**Alt text**: A brief description of the image that improves accessibility.
+![Alt text](URL_to_uploaded_image)
+
