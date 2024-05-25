@@ -1,6 +1,6 @@
 # Gupta_DuplicateQuestionDetection
 
-##Introduction
+## Introduction
  In today’s digital age, where information is readily available at our fingertips, question
  and answer platforms have become increasingly popular. Quora is one of the popular
  platforms where users can ask questions and receive answers from a diverse commu
