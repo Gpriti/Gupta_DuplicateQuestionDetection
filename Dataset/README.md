@@ -12,5 +12,5 @@
 2. Step 2
 
 ## Permanent Links to Data
-- [Link to data]([https://www.kaggle.com/c/quora-question-pairs])
+- [Link to data](https://www.kaggle.com/c/quora-question-pairs)
 
