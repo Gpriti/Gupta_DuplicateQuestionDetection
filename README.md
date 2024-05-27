@@ -23,6 +23,8 @@
 
 ## Result
 
-**Alt text**: A brief description of the image that improves accessibility.
-![Alt text](URL_to_uploaded_image)
+**Alt text**: From the below Model results it is clear that our two best models are XGboost
+ with an accuracy of 78.37 and RandomForest with an accuracy of 77.35. According
+ to accuracy, the XGBoost model gives a slightly better result than RandomForest.
+![Alt text](https://github.com/Gpriti/Gupta_DuplicateQuestionDetection/blob/main/model_comparasion.png)
 
